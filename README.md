@@ -2,23 +2,13 @@
 
 This is my personal portfolio website, where I showcase my work, skills, and education. The website is built using HTML, CSS, JS, and PHP, and it includes the following sections:
 
+Website Link - https://menuka-pinto.netlify.app/.
+
 - Home: an introduction to who I am and my background.
 - Projects: a gallery of my completed and current projects, with descriptions, screenshots, and links to the live demos or repositories.
 - Skills: a list of my technical and soft skills.
 - Education: a summary of my school and university education.
 - Work: details about my current and past places of work.
-
-Website Link - https://menuka-pinto.netlify.app/.
-
-# Personal Portfolio Website
-
-This is my personal portfolio website, where I showcase my work, skills, and education. The website is built using HTML, CSS, JS, and PHP, and it includes the following sections:
-
-- Home: an introduction to who I am and my background.
-- Projects: a gallery of my completed and current projects, with descriptions, screenshots, and links to the live demos or repositories.
-- Skills: a list of my technical and soft skills.
-- Education: a summary of my school and university education.
-- Work: details about my current place of work.
 
 ## Demo
 The website is hosted on Netlify.
