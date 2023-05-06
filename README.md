@@ -8,9 +8,7 @@ This is my personal portfolio website, where I showcase my work, skills, and edu
 - Education: a summary of my school and university education.
 - Work: details about my current and past places of work.
 
-The website is hosted on Netlify at https://menuka-pinto.netlify.app/.
-
-Sure, here's a possible `README.md` file for your personal portfolio website:
+Website Link - https://menuka-pinto.netlify.app/.
 
 # Personal Portfolio Website
 
