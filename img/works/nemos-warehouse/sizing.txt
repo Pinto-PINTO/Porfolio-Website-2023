@@ -1,0 +1,5 @@
+homePageProductImg - project-img-small.jpg   - 770 x 770
+productPageMainImg - project-img-large.jpg   - 1920 x 1080
+phoneImg           - mobile-mockup.png       - 543 x 917
+galleryFirstImg    - project-gallery-1.png   - 1400 x 600
+galleryCommonImgs  - project-gallery-2.png   - 695 x 456
