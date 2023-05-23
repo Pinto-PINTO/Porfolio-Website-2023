@@ -10,7 +10,7 @@
   } */
 
 
-  .custom-text-box {
+  /* .custom-text-box {
     background: var(--white-color);
     border-radius: var(--border-radius-medium);
     margin-bottom: 24px;
@@ -18,7 +18,20 @@
     padding-right: 40px;
     padding-top: 20px;
     padding-bottom: 20px;
-  }
+  } */
+
+  .custom-text-box {
+    background: var(--white-color);
+    border-radius: var(--border-radius-medium);
+    margin-bottom: 24px;
+    padding-left: 10px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 20px; }
+    @media only screen and (min-width: 1025px) {
+      .custom-text-box {
+        padding-left: 40px;
+        padding-top: 20px;}
   
   .custom-text-box-image {
     border-radius: var(--border-radius-medium);
